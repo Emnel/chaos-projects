@@ -1,0 +1,6 @@
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.exe.config
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.exe
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\bin\Debug\Csharp 1.pdb
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.exe
+E:\Projects\Visual Studio\C#\Csharp 1\Csharp 1\obj\Debug\Csharp 1.pdb
